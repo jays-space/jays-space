@@ -59,7 +59,7 @@ Shopping cart system with Stripe payment integration, user authentication, and p
 Building enterprise component frameworks and shared UI libraries for major financial institutions
 
 **Amber Software** — React Engineer (Oct 2022 - Jan 2024)  
-Led frontend delivery for Global Fund Scorecard Dashboard ([live site](https://data.theglobalfund.org/location/ZAF/overview)
+Led frontend delivery for Global Fund Scorecard Dashboard ([live site](https://data.theglobalfund.org/location/ZAF/overview))
 
 **Bohemian Vnyla** — Founder & Full Stack Engineer (Oct 2019 - Jan 2024)  
 Architected and built complete serverless event discovery platform from scratch
