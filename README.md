@@ -34,10 +34,10 @@ Production-grade end-to-end encrypted messaging app with real-time group chat, u
 
 ---
 
-### Personal Knowledge OS (In Progress)
-Next.js dashboard integrating with AWS-powered knowledge orchestration engine — personal interface to a RAG-based learning system
+### Vuka — Personal Life Dashboard (In Progress)
+Self-coaching dashboard built with Next.js — personal interface to an AWS-powered knowledge orchestration system with behavioral tracking, momentum visualization, and session management
 
-**Tech:** Next.js, TypeScript, AWS (Bedrock, OpenSearch), Tailwind v4
+**Tech:** Next.js, TypeScript, Tailwind v4, AWS (Bedrock, OpenSearch)
 
 ---
 
