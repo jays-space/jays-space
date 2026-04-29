@@ -1,73 +1,94 @@
-# Hey, I'm Jay 👋
+<div align="center">
 
-Senior Frontend Engineer specializing in **React, TypeScript, Next.js**, and **AWS serverless architecture**. 6+ years building enterprise-scale component systems and design libraries for financial services (Standard Bank, ABSA, Liberty).
+# 👋 Hey, I'm Jay Mondlana
 
-Currently focused on cloud-native applications, component architecture, and scalable UI systems.
+**Senior Frontend Engineer**  
+Building enterprise component systems & declarative platforms
 
-## 🛠 Tech Stack
+React • TypeScript • Next.js • AWS • Salesforce
 
-**Frontend**  
-React • TypeScript • Next.js • JavaScript (ES6+) • Component Architecture • Design Systems • Tailwind CSS • SASS
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-mondlana)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://jays-space.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.jays.space@gmail.com)
 
-**Testing**  
-Jest • React Testing Library • Cypress • TDD
-
-**Backend & Cloud**  
-Node.js • AWS (Lambda, DynamoDB, AppSync, Cognito, S3) • GraphQL • REST APIs • Serverless Architecture
-
-**Tools & Practices**  
-Git/GitHub • Docker • CI/CD • Agile/Scrum
-
-## 🚀 Featured Work
-
-### [Bohemian Vnyla](https://github.com/bohemian-vnyla) — Event Discovery Platform
-Complete serverless event management ecosystem: AWS backend (Lambda, DynamoDB, AppSync, Cognito) + React admin dashboard + Next.js discovery app + React Native mobile app + WhatsApp chatbot (AWS Lex, Twilio)
-
-**Tech:** React, Next.js, TypeScript, React Native, AWS, GraphQL, Twilio
+</div>
 
 ---
 
-### [Babble](https://github.com/jays-space/babble) — Encrypted Real-Time Chat
-Production-grade end-to-end encrypted messaging app with real-time group chat, user presence, and message delivery status
+## 🧑🏾‍💻 About
 
-**Tech:** React Native, Expo, TypeScript, AWS Amplify, TweetNaCl.js (E2E encryption)
+I'm a frontend engineer focused on scalable UI architecture and platform-level systems in enterprise environments.
 
----
+- Contributing to component frameworks used by Standard Bank, ABSA, and Liberty
+- Designing declarative systems that reduce custom code and enable non-developers
+- Strong focus on reusability, clarity, and delivery at scale
 
-### Vuka — Personal Life Dashboard (In Progress)
-Self-coaching dashboard built with Next.js — personal interface to an AWS-powered knowledge orchestration system with behavioral tracking, momentum visualization, and session management
-
-**Tech:** Next.js, TypeScript, Tailwind v4, AWS (Bedrock, OpenSearch)
+Background in marketing and business development. Now applying engineering to solve real-world problems.
 
 ---
 
-### [Instagram Clone](https://github.com/jays-space/instagram_clone) — Social Media App
-Full-featured Instagram clone (web + mobile) with likes, comments, follows, image uploads, and real-time updates
+## 🛠️ Core Stack
 
-**Tech:** React, React Native, AWS Amplify, Firebase, React Testing Library, Cypress
-
----
-
-### [CRWN Clothing](https://github.com/jays-space/crwn-clothing) — E-Commerce App
-Shopping cart system with Stripe payment integration, user authentication, and product catalog management
-
-**Tech:** React, Firebase, Stripe, Redux
-
-## 💼 Professional Background
-
-**SmartenUp** — Senior Consultant (Dec 2023 - Present)  
-Building enterprise component frameworks and shared UI libraries for major financial institutions
-
-**Amber Software** — React Engineer (Oct 2022 - Jan 2024)  
-Led frontend delivery for Global Fund Scorecard Dashboard ([live site](https://data.theglobalfund.org/location/ZAF/overview))
-
-**Bohemian Vnyla** — Founder & Full Stack Engineer (Oct 2019 - Jan 2024)  
-Architected and built complete serverless event discovery platform from scratch
-
-## 📫 Let's Connect
-
-[LinkedIn](https://linkedin.com/in/jay-mondlana) • [Portfolio](https://jays-space.vercel.app) • [Email](mailto:contact.jays.space@gmail.com)
+**Frontend:** React, TypeScript, Next.js, LWC  
+**Backend/Cloud:** Node.js, AWS, GraphQL  
+**Platform:** Salesforce Experience Cloud, MuleSoft  
+**Testing:** Jest, Cypress
 
 ---
 
-💡 **Open to senior frontend engineering opportunities** in cloud-native React ecosystems — particularly roles focused on component architecture, design systems, and AWS integration.
+## 🚀 Selected Projects
+
+### Bohemian Vnyla — Event Platform
+
+Full-stack serverless platform built on AWS:
+- Lambda, DynamoDB, AppSync (GraphQL), Cognito
+- React admin dashboard + Next.js frontend
+- React Native mobile app + WhatsApp bot (Lex + Twilio)
+
+### Declarative Salesforce Component System
+
+Configuration-driven component architecture:
+- Admin-defined data queries (filters, sorting, bindings)
+- Reduces need for custom Apex/JS
+- Aligns with Salesforce's declarative model
+
+### Vuka — Personal Consistency System
+
+Self-coaching dashboard focused on behavioral execution:
+- Tracks patterns, not just tasks
+- Defines Minimum Viable Week (MVW)
+- Built with Next.js + TypeScript (local-first, cloud planned)
+
+---
+
+## 💼 Experience
+
+**Senior Consultant — SmartenUp**  
+Building enterprise frontend systems for financial services clients.
+
+---
+
+## 🎯 Focus
+
+- Cloud-native React architectures (AWS)
+- Declarative systems & platform engineering
+- Transitioning into AI/ML-enabled applications
+
+---
+
+## 📫 Contact
+
+Open to collaboration and interesting problems in:
+- Component systems
+- Platform architecture
+- Cloud-native frontend
+
+**Email:** contact.jays.space@gmail.com
+
+---
+
+<div align="center">
+
+*"Solve hard problems well."*
+
+</div>
