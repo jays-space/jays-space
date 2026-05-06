@@ -31,7 +31,7 @@ Background in marketing and business development. Now applying engineering to so
 
 **Frontend:** React, TypeScript, Next.js, LWC  
 **Backend/Cloud:** Node.js, AWS, GraphQL  
-**Platform:** Salesforce Experience Cloud, MuleSoft  
+**Platform:** AWS, Salesforce Experience Cloud, MuleSoft  
 **Testing:** Jest, Cypress
 
 ---
